@@ -1,0 +1,65 @@
+Project Overview
+This project was completed as part of my CodeAlpha Internship – Task 2.
+The main objective of this task was to explore student performance data and represent the findings using different charts and graphs.
+
+Google Colab
+You can view the complete project and code here:
+
+Google Colab:https://colab.research.google.com/drive/1kfuQOnD5gExGnD0k2CipXyMlAQy7JF4F#scrollTo=cQRPcXFSxCzF
+
+Dataset
+The project uses the xAPI-Edu-Data dataset, which contains information about students, their participation, resource usage, attendance, and academic performance.
+
+Libraries Used
+Pandas – Used for loading, cleaning, and analyzing the dataset.
+
+Matplotlib – Used for creating different charts and graphs.
+
+Seaborn – Used for creating statistical visualizations and improving the presentation of charts.
+
+Task Work
+In this task, I:
+
+Loaded and explored the dataset.
+
+Checked the data structure and missing values.
+
+Removed duplicate records.
+
+Analyzed different student-related factors.
+
+Created bar charts and histograms.
+
+Created box plots and scatter plots.
+
+Created a correlation heatmap.
+
+Compared student participation and resource usage with performance.
+
+Identified useful patterns and insights from the visualizations.
+
+Visualizations
+Some of the visualizations included in the project are:
+
+Student distribution by gender
+
+Student distribution by nationality
+
+Student performance distribution
+
+Raised hands distribution
+
+Visited resources distribution
+
+Raised hands vs performance
+
+Raised hands vs visited resources
+
+Raised hands vs absence days
+
+Correlation heatmap
+
+Average participation by performance
+
+Conclusion
+This project helped me understand how raw data can be transformed into meaningful visualizations. The charts and graphs make it easier to identify patterns in student behavior and performance and present the findings in a simple and understandable way.
